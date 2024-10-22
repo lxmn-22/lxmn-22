@@ -1,8 +1,9 @@
 <!---
 lxmn-22/lxmn-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/a3fc0d71-89a0-4f80-bfb7-d615c032bb66)
+--->
 <h1 align="center">Hi 👋, I'm Laxman Singh Koranga.</h1>
 <h3 align="center">An Aspiring Software Developer.👨🏻‍💻</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
