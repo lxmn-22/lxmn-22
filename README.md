@@ -14,10 +14,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **laxmankoranga03@gmail.com**
 - ⚡ Fun fact: Github suspended my main account for no reason.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmankoranga03)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lxmn22nov) 
-
 <h3 align="left">🛠️ Languages and Tools</h3>
 <table>
   <thead align="center">
