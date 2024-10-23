@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/a3fc0d71-89a0-4f80-bfb7-d615c032bb66)
 --->
-<h1 align="center">Hi 👋, I'm Laxman Singh Koranga.</h1>
-<h3 align="center">An Aspiring Software Developer.👨🏻‍💻</h3>
+<h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
+<h3 align="center">An Aspiring Software Developer. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
 <p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
 
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **laxmankoranga03@gmail.com**
 - ⚡ Fun fact: Github suspended my main account for no reason.
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**
 <table>
   <thead align="center">
     <tr border: none;>
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <!-- Statistics -->
-<h3 align="left">📊 GitHub Statistics</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Statistics
 <table>
   <thead align="center">
     <tr border: none;>
@@ -67,9 +67,8 @@ You can click the Preview link to take a look at your changes.
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=lxmn-22&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="my Github Stats"/></td>
-      <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn-22&theme=github_dark_dimmed&hide_border=true" /> </td>
+      <td> <img src="https://bad-apple-github-readme.vercel.app/api?username=lxmn-22&show_icons=true&count_private=true&icon_color=00b3ff&theme=blue-green&title_color=00b3ff&hide_border=true" alt="my Github Stats" /> </td>
+      <td> <img src="https://streak-stats.demolab.com/?user=lxmn-22&count_private=true&theme=blue-green&title_color=00b3ff&hide_border=true" /> </td>
     </tr>
   </tbody>
 </table>
@@ -79,3 +78,5 @@ You can click the Preview link to take a look at your changes.
 
 [![An image of @lxmn22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22)](https://holopin.io/@lxmn22)
 
+<!-- Footer -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
