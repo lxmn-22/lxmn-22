@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/a3fc0d71-89a0-4f80-bfb7-d615c032bb66)
 --->
 <h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
-<h3 align="center">An Aspiring Software Developer.</h3>
+<h3 align="center">An Aspiring Software Developer</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="57" height="60" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
 <p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
@@ -42,10 +42,10 @@ You can click the Preview link to take a look at your changes.
       <td><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </td>
       <td><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a></td>
       <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a> </td>
-      <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </td>
-      <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> </td>
     </tr>
 <tr>
+      <td><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </td>
+      <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> </td>
       <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40"/> </a></td>
       <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </td>
       <td><a href="https://mongoosejs.com//" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/> </a></td>
