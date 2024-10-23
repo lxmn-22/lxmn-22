@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
   <tbody>
     <tr>
       <td></td>
-      <td> <img src="https://github-readme-stats.vercel.app/api?username=lxmn-22&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false" /> </td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=lxmn-22&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="my Github Stats"/></td>
       <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxmn-22&theme=github_dark_dimmed&hide_border=true" /> </td>
     </tr>
   </tbody>
