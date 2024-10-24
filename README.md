@@ -92,10 +92,10 @@ You can click the Preview link to take a look at your changes.
     <tbody>
       <tr>
         <td>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" alt="oct" height="100" width="100" /></a>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="100" width="100" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days" height="100" width="100" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="100" width="100" /></a>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" alt="oct" height="70" width="70" /></a>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="70" width="70" /></a>
+          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days" height="70" width="70" /></a>
+          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="70" width="70" /></a>
         </td>
         <td>
           <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />
@@ -116,11 +116,11 @@ You can click the Preview link to take a look at your changes.
   <tbody >
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="80" height="80" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running" width="80" height="80" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights" width="80" height="80" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Cricket%20Game.png" alt="Cricket Game" width="80" height="80" />
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Cricket%20Game.png" alt="Cricket Game" width="60" height="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="60" height="60" />
       </td>
     </tr>
   </tbody>
