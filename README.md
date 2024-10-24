@@ -88,6 +88,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="100" width="100" /></a>
 </p>
 
+<p align="center"> <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />  </p>
+
 <!-- Halopin Board -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> **Badges**
 
