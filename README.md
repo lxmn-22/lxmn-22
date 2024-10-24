@@ -104,6 +104,8 @@ You can click the Preview link to take a look at your changes.
 [![An image of @lxmn22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22)](https://holopin.io/@lxmn22)
 
 <!-- Activities Board -->
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
 <table align="center" >
   <tbody >
     <tr>
