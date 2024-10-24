@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <!-- Halopin Board -->
-<h3 align="left">🎁 Badges</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Glowing Star.png" alt="Glowing Star" width="30" height="30" /> **Badges**
 
 [![An image of @lxmn22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22)](https://holopin.io/@lxmn22)
 
