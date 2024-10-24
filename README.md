@@ -6,9 +6,17 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" /></h1> 
 <h3 align="center">An Aspiring Software Developer</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="90" height="90" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
-<p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
+<table align="center" >
+  <tr>
+    <td>
+      <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="90" height="90" /></p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
+    </td>
+    <td>
+      <p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
+    </td>
+  </tr>
+</table>
 
 - 🎓 I’m pursuing post-graduation in Master of Computer Applications(**MCA**).
 - 🌱 I’m currently learning **NextJS, Redis.**
@@ -89,8 +97,6 @@ You can click the Preview link to take a look at your changes.
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days" height="100" width="100" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="100" width="100" /></a>
         </td>
-      </tr>
-      <tr>
         <td>
           <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />
         </td>
