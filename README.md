@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/a3fc0d71-89a0-4f80-bfb7-d615c032bb66)
 --->
-<h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
+<h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" /></h1> 
 <h3 align="center">An Aspiring Software Developer</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="57" height="60" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="90" height="90" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
 <p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
 
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <!-- Halopin Board -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Glowing Star.png" alt="Glowing Star" width="30" height="30" /> **Badges**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> **Badges**
 
 [![An image of @lxmn22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22)](https://holopin.io/@lxmn22)
 
