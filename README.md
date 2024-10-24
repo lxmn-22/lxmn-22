@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**
 <table>
   <thead align="center">
-    <tr border: none;>
-    </tr>
+    <tr border: none;></tr>
   </thead>
   <tbody>
     <tr>
@@ -80,20 +79,44 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Leetcode Board -->
-<h2 align="left">Leetcode Statistics<h2>
-<p align="center">
-  <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" alt="oct" height="100" width="100" /></a>
-  <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="100" width="100" /></a>
-  <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days" height="100" width="100" /></a>
-  <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="100" width="100" /></a>
-</p>
-
-<p align="center"> <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />  </p>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Leetcode Statistics<h2>
+  <table align="center" >
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-10.gif" alt="oct" height="100" width="100" /></a>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="100" width="100" /></a>
+          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days" height="100" width="100" /></a>
+          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days" height="100" width="100" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
 <!-- Halopin Board -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> **Badges**
 
 [![An image of @lxmn22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lxmn22)](https://holopin.io/@lxmn22)
+
+<!-- Activities Board -->
+<table align="center" >
+  <tbody >
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Running%20Light%20Skin%20Tone.png" alt="Man Running" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Cricket%20Game.png" alt="Cricket Game" width="80" height="80" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="80" height="80" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- Footer -->
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
