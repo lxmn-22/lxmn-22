@@ -4,6 +4,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/a3fc0d71-89a0-4f80-bfb7-d615c032bb66)
 --->
+
+<!-- Header -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&reversal=false"/></p>
+
 <h1 align="center">Hi, I'm Laxman Singh Koranga <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" /></h1> 
 <h3 align="center">An Aspiring Software Developer</h3>
 <table align="center" >
