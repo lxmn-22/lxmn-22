@@ -96,6 +96,7 @@ You can click the Preview link to take a look at your changes.
     <tbody>
       <tr>
         <td>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="nov" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="oct" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200-Days-2024" height="70" width="70" /></a>
