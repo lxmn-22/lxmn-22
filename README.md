@@ -98,10 +98,11 @@ You can click the Preview link to take a look at your changes.
         <td>
           <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="nov" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="oct" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="70" width="70" /></a>
+          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="365-Days" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200-Days-2024" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days-2024" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days-2024" height="70" width="70" /></a>
+          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="70" width="70" /></a>
           <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="Most-Liked-Questions" height="70" width="70" /></a>
         </td>
         <td>
