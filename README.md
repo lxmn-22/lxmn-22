@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 - 🎓 I’m pursuing post-graduation in Master of Computer Applications(**MCA**).
-- 🌱 I’m currently learning **NextJS, Redis.**
+- 🌱 I’m currently learning **NextJS, PostgreSQL.**
 - 💞️ I’m looking forward to collaborate on Open Source Projects.
 - 📫 How to reach me **laxmankoranga03@gmail.com**
 - ⚡ Fun fact: Github suspended my main account for no reason.
