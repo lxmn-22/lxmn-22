@@ -92,26 +92,45 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Leetcode Board -->
 <h2 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Leetcode Statistics<h2>
-  <table align="center" >
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="nov" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="oct" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500.gif" alt="500-Days" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="365-Days" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200-Days-2024" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100-Days-2024" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-Days-2024" height="70" width="70" /></a>
-<!--           <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="L-75" height="70" width="70" /></a>
-          <a href="https://leetcode.com/u/lxmn22/"  target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="Most-Liked-Questions" height="70" width="70" /></a> -->
-        </td>
-        <td>
-          <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="heatmap" height="300" width="450" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
+  <table align="center">
+  <tbody>
+    <tr>
+      <td>
+        <table>
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="December Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October Badge" height="70" width="70" /></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/500.gif" alt="500 Days Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="365 Days Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days 2024 Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days 2024 Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days 2024 Badge" height="70" width="70" /></a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"> <img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode-75 Badge" height="70" width="70" /> </a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"> <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="Most-Liked-Questions" height="70" width="70" /> </a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"> <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Intro-to-Panda" height="70" width="70" /> </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/lxmn22?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap" style="height: 300px; width: 450px;" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- Halopin Board -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> **Badges**
