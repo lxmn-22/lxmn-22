@@ -101,6 +101,7 @@ You can click the Preview link to take a look at your changes.
           <tbody>
             <tr>
               <td>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="December Badge" height="70" width="70" /></a>
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="December Badge" height="70" width="70" /></a>
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="70" width="70" /></a>
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="October Badge" height="70" width="70" /></a>
