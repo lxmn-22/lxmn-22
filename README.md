@@ -16,14 +16,11 @@ You can click the Preview link to take a look at your changes.
       <p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="90" height="90" /></p>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=lxmn-22&label=Profile%20views&color=0e75b6&style=flat" alt="lxmn-22" /> </p>
     </td>
-    <td>
-      <p align="center"> <img src="https://widgetbite.com/stats/{lxmn-22}" alt="watching_count" alt="lxmn-22" /> </p>
-    </td>
   </tr>
 </table>
 
 - 🎓 I’m pursuing post-graduation in Master of Computer Applications(**MCA**).
-- 🌱 I’m currently learning **NextJS, PostgreSQL.**
+- 🌱 I’m currently learning **DevOps, AWS.**
 - 💞️ I’m looking forward to collaborate on Open Source Projects.
 - 📫 How to reach me **laxmankoranga03@gmail.com**
 - ⚡ Fun fact: Github suspended my main account for no reason.
