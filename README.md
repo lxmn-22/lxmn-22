@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/365.gif" alt="365 Days Badge" height="70" width="70" /></a>
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days 2024 Badge" height="70" width="70" /></a>
                 <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days 2024 Badge" height="70" width="70" /></a>
-                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days 2024 Badge" height="70" width="70" /></a>
+                <a href="https://leetcode.com/u/lxmn22/" target="_blank"><img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days 2025 Badge" height="70" width="70" /></a>
               </td>
             </tr>
             <tr>
